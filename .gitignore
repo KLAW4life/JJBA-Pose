@@ -32,3 +32,5 @@ build/
 develop-eggs/
 dist/
 # ... (see full GitHub template for complete list)
+
+poses/
